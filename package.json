@@ -1,0 +1,21 @@
+{
+  "name": "assignment_3",
+  "version": "1.0.0",
+  "main": "script1.js",
+"scripts": {
+  "start": "node script1.js",
+  "dev1": "nodemon script1.js",
+  "dev2": "nodemon script2.js",
+  "dev3": "nodemon script3.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
